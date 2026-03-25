@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*classlarni nuqta orqali chaqiramiz*/
+
+.class_div{
+    width: 400px;
+    height: 400px;
+    background: goldenrod;
+}
+
+
+/*id # bilan chaqiramiz*/
+#cart_id_div{
+    width: 400px;
+    height: 400px;
+    background: red;
+}
+
+
+/*tag nomi bilan chaqirish uchun hech narsa bilan foydalanilmaydi shunchaki nomini chaqirib qoyiladi*/
+
+main{
+    background: black;
+    height: 50px;
+    width: 50px;
+}

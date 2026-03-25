@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*block elementlarni inlainga o'zgartirish*/
+div{
+     background-color: red;
+    width: 400px;
+    height: 500px;
+    display: inline;
+}
+
+
+
+/*inlain elementlarni block ga o'zgartirish*/
+span{
+   background-color: blue;
+   display: block;
+}
+
+/*inlain elementni inlain qoldirib uzida width height qilishi*/
+a{
+    background: pink;
+    width: 400px;
+    height: 300px;
+
+
+    display: inline-block;
+}
